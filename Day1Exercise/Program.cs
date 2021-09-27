@@ -24,6 +24,30 @@ namespace Day1Exercise
             // using string interpolation
             Console.WriteLine( $"Your name is {name}, you are {age} years old, you are from {homeTown}," +
                 $" and your favorite food is {food}!");
+
+            Console.WriteLine("Please enter something:");
+            Console.WriteLine(Console.ReadLine());
+
+            Console.WriteLine("Please enter a number:");
+            double num = double.Parse(Console.ReadLine());
+            Console.WriteLine(num + 1);
+
+            Console.WriteLine("Please enter a number:");
+            double num2 = double.Parse(Console.ReadLine());
+            Console.WriteLine(num2 + .5);
+
+            Console.WriteLine("Please enter first number:");
+            double num3 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter second number:");
+            double num4 = double.Parse(Console.ReadLine());
+            Console.WriteLine(num3 + num4);
+
+            Console.WriteLine("Please enter a number:");
+            double num5 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter next number:");
+            double num6 = double.Parse(Console.ReadLine());
+            Console.WriteLine(num5 * num6);
+
         }
     }
 }
