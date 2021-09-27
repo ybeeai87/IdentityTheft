@@ -18,9 +18,12 @@ namespace Day1Exercise
             Console.WriteLine("What is your hometown?");
             string homeTown = Console.ReadLine();
 
+            Console.WriteLine("What is your favorite food?");
+            string food = Console.ReadLine();
+
             // using string interpolation
-            Console.WriteLine("Bahaha, your identity has been stolen! " +
-                $"My name is now {name}, I am {age} years old, and I am from {homeTown}!!!");
+            Console.WriteLine( $"Your name is {name}, you are {age} years old, you are from {homeTown}," +
+                $" and your favorite food is {food}!");
         }
     }
 }

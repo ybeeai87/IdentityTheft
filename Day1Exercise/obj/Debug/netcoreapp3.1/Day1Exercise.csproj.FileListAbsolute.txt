@@ -10,3 +10,4 @@ C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day1Exercise\Day1Exercise\obj
 C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.dll
 C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.pdb
 C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.genruntimeconfig.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.csproj.AssemblyReference.cache
